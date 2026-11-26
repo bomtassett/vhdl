@@ -97,6 +97,6 @@ begin
         end if;
     end process;
  
-Sum_out <= ACC; --connect signal to output port
+Sum_out <= ACC; --connect signal to output port.
  
 end Behave;
