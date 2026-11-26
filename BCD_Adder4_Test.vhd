@@ -5,7 +5,6 @@
 -- Create Date: 03/05/2026 01:45:47 PM
 -- Design Name: elec418_project2_BCD_Adder4
 -- Module Name: BCD_Adder4_Test - Behave
--- Project Name: Project 2
 -- Target Devices: Digilent Basys3
 -- Tool Versions: 
 -- Description: 
