@@ -6,7 +6,6 @@
 -- Design Name: SR4
 -- Module Name: SR4 - Behave
 -- Target Devices: Digilent Basys3
--- Tool Versions: 
 -- Description: 4-bit shift register SR4
 -- Specifications:
 --		• asynchronous active-low clear (ClrN)
